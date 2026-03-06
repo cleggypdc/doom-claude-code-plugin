@@ -2,6 +2,8 @@
 
 A Claude Code plugin that launches the original DOOM (rendered in ASCII) while Claude is thinking.
 
+https://github.com/user-attachments/assets/9e50b311-f677-40e8-abae-1e1b40e300b7
+
 ## How it works
 
 - **Send a prompt** → DOOM launches in a side-by-side terminal pane
