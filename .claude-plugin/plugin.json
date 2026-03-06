@@ -1,0 +1,8 @@
+{
+  "name": "doom",
+  "description": "Play the original DOOM (ASCII-rendered) while Claude thinks on long tasks",
+  "version": "1.0.0",
+  "author": {
+    "name": "Paul"
+  }
+}
